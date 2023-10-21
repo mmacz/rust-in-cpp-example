@@ -1,0 +1,5 @@
+[registries.groves-maker]
+index = "ssh://git@ssh.shipyard.rs/groves-maker/crate-index.git"
+
+[net]
+git-fetch-with-cli = true
